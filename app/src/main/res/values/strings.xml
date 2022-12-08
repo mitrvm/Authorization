@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Authorization</string>
+    <string name="login">Войти</string>
+    <string name="user">Пользователь:</string>
+    <string name="password">Пароль:</string>
+    <string name="inputname">Введите имя</string>
+    <string name="inputpassword">Введите пароль</string>
+    <string name="auth">Авторизация</string>
+    <string name="success">Вы успешно залогинились!</string>
+
+</resources>
